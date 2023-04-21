@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/library_management/static/css/main.257b4683.css",
+    "main.js": "/library_management/static/js/main.447be459.js",
+    "static/media/cover_not_found.jpg": "/library_management/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/library_management/static/media/about-img.22c23dd03ea61491732e.jpg",
+    "index.html": "/library_management/index.html",
+    "static/media/loader.svg": "/library_management/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.257b4683.css.map": "/library_management/static/css/main.257b4683.css.map",
+    "main.447be459.js.map": "/library_management/static/js/main.447be459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257b4683.css",
+    "static/js/main.447be459.js"
+  ]
+}
