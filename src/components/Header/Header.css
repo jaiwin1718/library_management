@@ -1,0 +1,17 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(114, 163, 227, 0.3), rgba(8, 8, 8, 0.5)), url("") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+    font-variant: normal;
+    color: rgb(51, 50, 50);
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    color: black;
+    max-width: 770px;
+}
